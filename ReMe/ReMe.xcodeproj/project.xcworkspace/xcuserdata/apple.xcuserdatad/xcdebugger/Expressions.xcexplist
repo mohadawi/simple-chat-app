@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MealTableViewController.prepare(for:sender:):MealTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "meals[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MNCDialogViewController.configureCell(messageCell:indexPath:):MNCDialogViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "flag">
+            </PersistentString>
+            <PersistentString
+               value = "messageCell.chatMateMessageLabel!.text">
+            </PersistentString>
+            <PersistentString
+               value = "chatMessage">
+            </PersistentString>
+            <PersistentString
+               value = "myUserId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
